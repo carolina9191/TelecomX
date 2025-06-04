@@ -8,11 +8,14 @@ El objetivo principal de este proyecto es recopilar, procesar y analizar datos r
 
 La finalidad de este análisis es proporcionar una base sólida de conocimiento y insights al equipo de Data Science, que les permita posteriormente desarrollar modelos predictivos de evasión más precisos y diseñar estrategias efectivas para la reducción proactiva de este fenómeno, optimizando así la gestión de ingresos y la estabilidad financiera de la organización.
 
-ANALISIS SEGUN ESPECIFICACIONES:
+
+👨‍🏫 ANÁLISIS SEGÚN ESPECIFICACIONES:
+
 - Comprobacion de incoherencias en los datos.
 - Manejo de Inconsistencias
 - Columnas de Cuentas Bancarias
 - Estandarizacion y Transformacion de datos.
+
 
   
 📊 Ejemplos de Gráficos Generados en base a carga y analisis.
@@ -62,3 +65,14 @@ Implicaciones para el Equipo de Data Science y Estrategias para Reducir la Evasi
 *Para clientes mensuales: Implementar recordatorios de pago más frecuentes, opciones de pago automático, o incentivos por pago anticipado.
 *Para el método de Cheque Electrónico: Revisar el proceso, mejorar la validación, o incluso considerar alternativas o restricciones si el problema es sistémico.
 *Promover contratos Bianuales o Anuales: Si es posible, incentivar a los clientes a optar por tipos de contrato de mayor duración, ya que estos muestran una tasa de evasión significativamente menor.
+
+
+🛠️ Herramientas y Librerías Utilizadas
+
+El análisis se llevó a cabo utilizando el entorno de Python, con las siguientes librerías principales:
+
+pandas: Para la manipulación y el procesamiento de datos.
+numpy: Para operaciones numéricas eficientes.
+matplotlib: Para la creación de gráficos y visualizaciones estáticas.
+seaborn: Para la creación de visualizaciones estadísticas atractivas y complejas.
+
