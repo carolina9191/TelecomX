@@ -16,17 +16,22 @@ ANALISIS SEGUN ESPECIFICACIONES:
 
   
 📊 Ejemplos de Gráficos Generados en base a carga y analisis.
+
 📌 Distribucion de evasion (grafico barras)
+
 
 ![grafico_evasion_barras](https://github.com/user-attachments/assets/6c96848b-5688-428c-aeda-40f5b618de71)
 
 📌 Distribucion de evasion,proporcion. (gráfico, evasión pie)
+
 ![grafico_evasion_pie](https://github.com/user-attachments/assets/9640abc6-1ee1-42ab-b02e-f8a3b4102b12)
 
 📌 Recuento de evasión segun variables categoricas.
+
 ![grafico_evasion_genero](https://github.com/user-attachments/assets/e9507f68-4dec-4083-992e-9865c71c5aed)
 
 📌 Conteo de evasión por variables numéricas.
+
 ![grafico_evasion_edad](https://github.com/user-attachments/assets/8dae7303-5f0e-49d1-aa15-e7ad78073609)
 
 
